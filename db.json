@@ -3,7 +3,7 @@
         {
             "id" : 1,
             "title" : "tours",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064829/portfolio-assets/tours_yszcpf.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064829/portfolio-assets/tours_yszcpf.jpg",
             "url" : "https://react-tours-company.netlify.app/",
             "github" : "https://github.com/eatcodesforlife/react-athon-tours",
             "featured" : false,
@@ -13,7 +13,7 @@
         {
             "id" : 2,
             "title" : "reviews",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064832/portfolio-assets/gallery_wz8fia.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064832/portfolio-assets/gallery_wz8fia.jpg",
             "url" : "https://react-tours-company.netlify.app",
             "github" : "https://github.com/eatcodesforlife/react-athon-reviews",
             "featured" : false,
@@ -23,7 +23,7 @@
         {
             "id" : 3,
             "title" : "menu list",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064837/portfolio-assets/menulist_qdosof.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064837/portfolio-assets/menulist_qdosof.jpg",
             "url" : "https://app.netlify.com/sites/react-food-menu/overview",
             "github" : "https://github.com/eatcodesforlife/react-athon-menu",
             "featured" : false,
@@ -33,7 +33,7 @@
         {
             "id" : 4,
             "title" : "accordion-faq",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609065033/portfolio-assets/accordionfaq_dku2ji.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609065033/portfolio-assets/accordionfaq_dku2ji.jpg",
             "url" : "https://react-accordion-faqs.netlify.app",
             "github" : "",
             "featured" : false,
@@ -43,7 +43,7 @@
         {
             "id" : 5,
             "title" : "tabs",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064836/portfolio-assets/tabs_j0lsac.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064836/portfolio-assets/tabs_j0lsac.jpg",
             "url" : "https://reactathon-tabs.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-tabs",
             "featured" : false,
@@ -53,7 +53,7 @@
         {
             "id" : 6,
             "title" : "sliders",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064831/portfolio-assets/sliders_ptfyod.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064831/portfolio-assets/sliders_ptfyod.jpg",
             "url" : "https://reactathon-slider.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-sliders",
             "featured" : false,
@@ -63,7 +63,7 @@
         {
             "id" : 7,
             "title" : "tint and shade generator",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064833/portfolio-assets/tintandshadegenerator_xojrl9.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064833/portfolio-assets/tintandshadegenerator_xojrl9.jpg",
             "url" : "https://react-tintandshadegenerator.netlify.app",
             "github" : "",
             "featured" : false,
@@ -73,7 +73,7 @@
         {
             "id" : 8,
             "title" : "lorem paragraph generator",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064839/portfolio-assets/dummyparagraph_generator_wyek6b.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064839/portfolio-assets/dummyparagraph_generator_wyek6b.jpg",
             "url" : "https://react-grocery-helper.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-grocery-helper",
             "featured" : false,
@@ -83,9 +83,9 @@
         {
             "id" : 9,
             "title" : "navbar",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064831/portfolio-assets/navbar_yyfxyv.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064831/portfolio-assets/navbar_yyfxyv.jpg",
             "url" : "https://reactathon-navbar.netlify.app",
-            "github" : "",
+            "github" : "https://github.com/eatcodesforlife/reactathon-navbar",
             "featured" : false,
             "description": "",
             "tags": ["React", "CSS", "HTML"]
@@ -93,7 +93,7 @@
         {
             "id" : 10,
             "title" : "sidebar menu and modal",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064830/portfolio-assets/sidebarandmodal_e2wnrv.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064830/portfolio-assets/sidebarandmodal_e2wnrv.jpg",
             "url" : "https://reactathon-sidebarandmodal.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-sidebar-modal",
             "featured" : false,
@@ -103,7 +103,7 @@
         {
             "id" : 11,
             "title" : "stripe menu",
-            "project-image" : "https://reactathon-stripe-menu.netlify.app",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064831/portfolio-assets/stripemenu_p2gsfk.jpg",
             "url" : "https://reactathon-stripe-menu.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-stripe-menu",
             "featured" : false,
@@ -113,7 +113,7 @@
         {
             "id" : 12,
             "title" : "cart",
-            "project-image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609067425/portfolio-assets/cart_rhfpwf.jpg",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609067425/portfolio-assets/cart_rhfpwf.jpg",
             "url" : "https://reactathon-cart.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-cart",
             "featured" : false,
@@ -123,7 +123,7 @@
         {
             "id" : 13,
             "title" : "git drunkdb",
-            "project-image" : "https://reactathon-gitdrunkdb.netlify.app",
+            "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064833/portfolio-assets/gitdrunk_uwecmy.jpg",
             "url" : "https://reactathon-gitdrunkdb.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-cart",
             "featured" : false,
