@@ -7,6 +7,7 @@
             "url" : "https://react-tours-company.netlify.app/",
             "github" : "https://github.com/eatcodesforlife/react-athon-tours",
             "featured" : false,
+            "bgColor" : "#169147",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -17,6 +18,7 @@
             "url" : "https://react-tours-company.netlify.app",
             "github" : "https://github.com/eatcodesforlife/react-athon-reviews",
             "featured" : false,
+            "bgColor" : "#c45151",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -27,6 +29,7 @@
             "url" : "https://app.netlify.com/sites/react-food-menu/overview",
             "github" : "https://github.com/eatcodesforlife/react-athon-menu",
             "featured" : false,
+            "bgColor" : "#c89a24",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -35,8 +38,9 @@
             "title" : "accordion-faq",
             "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609065033/portfolio-assets/accordionfaq_dku2ji.jpg",
             "url" : "https://react-accordion-faqs.netlify.app",
-            "github" : "",
+            "github" : "https://github.com/eatcodesforlife/reactathon-accordion-faqs",
             "featured" : false,
+            "bgColor" : "#169147",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -47,6 +51,7 @@
             "url" : "https://reactathon-tabs.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-tabs",
             "featured" : false,
+            "bgColor" : "#c45151",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -57,6 +62,7 @@
             "url" : "https://reactathon-slider.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-sliders",
             "featured" : false,
+            "bgColor" : "#c89a24",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -65,8 +71,9 @@
             "title" : "tint and shade generator",
             "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064833/portfolio-assets/tintandshadegenerator_xojrl9.jpg",
             "url" : "https://react-tintandshadegenerator.netlify.app",
-            "github" : "",
+            "github" : "https://github.com/eatcodesforlife/reactathon-tintandshade-generator",
             "featured" : false,
+            "bgColor" : "#c45151",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -77,6 +84,7 @@
             "url" : "https://react-grocery-helper.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-grocery-helper",
             "featured" : false,
+            "bgColor" : "#169147",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -87,6 +95,7 @@
             "url" : "https://reactathon-navbar.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-navbar",
             "featured" : false,
+            "bgColor" : "#c45151",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -97,6 +106,7 @@
             "url" : "https://reactathon-sidebarandmodal.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-sidebar-modal",
             "featured" : false,
+            "bgColor" : "#c89a24",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -107,6 +117,7 @@
             "url" : "https://reactathon-stripe-menu.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-stripe-menu",
             "featured" : false,
+            "bgColor" : "#169147",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -117,6 +128,7 @@
             "url" : "https://reactathon-cart.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-cart",
             "featured" : false,
+            "bgColor" : "#c45151",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         },
@@ -127,6 +139,7 @@
             "url" : "https://reactathon-gitdrunkdb.netlify.app",
             "github" : "https://github.com/eatcodesforlife/reactathon-cart",
             "featured" : false,
+            "bgColor" : "#c89a24",
             "description": "",
             "tags": ["React", "CSS", "HTML"]
         }
