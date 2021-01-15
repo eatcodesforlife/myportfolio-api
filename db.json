@@ -26,7 +26,7 @@
             "id" : 3,
             "title" : "menu list",
             "image" : "https://res.cloudinary.com/drfgkfzk2/image/upload/v1609064837/portfolio-assets/menulist_qdosof.jpg",
-            "url" : "https://app.netlify.com/sites/react-food-menu/overview",
+            "url" : "https://react-food-menu.netlify.app/",
             "github" : "https://github.com/eatcodesforlife/react-athon-menu",
             "featured" : false,
             "bgColor" : "#c89a24",
