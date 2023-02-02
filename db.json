@@ -153,7 +153,7 @@
             "description": "This project is a clone so all assets in this project are owned by Airbnb. This project is created with Nextjs and styled with Tailwindcss. I created a small nodejs app for most of the assets and deployed it in Heroku so that I can serve it as JSON file and access it via an API end point. To implement a dynamic search result, I have also created an API end point that will provide data for 4 cities - San Francisco, New York, Dubai and London. APIs for the assets and the search result data are being server-side rendered using NextJS' built-in server. I have also implemented dynamic map rendering so that map updates everytime the users enter a new city in the search field and each returned properties' geolocation is rendered and marked into the map's viewport. Map is only rendered on large screens. The map is from Mapbox and and I am using react-map-gl to contain, render and mark each properties geolocation into the map's viewport.",
             "githubURL" : "https://github.com/eatcodesforlife/nextjs-airbnb-clone",
             "url" : "https://nextjs-airbnb-clone-three.vercel.app",
-            "techs" : ["nextjs", "tailwindcss", "nodejs", "mapbox", "JSON", "APIs", "heroku", "material-ui", "react-date-range"]
+            "techs" : ["nextjs", "tailwindcss", "nodejs", "mapbox", "JSON", "APIs", "material-ui", "react-date-range"]
         },        
         {
             "id": 3,
@@ -161,8 +161,8 @@
             "imgURL": "https://res.cloudinary.com/drfgkfzk2/image/upload/v1631230327/finished-project-mockup/melkingsite-mockup_xmru9s.png",
             "description": "This is my first paid gig. I designed this website so that it resembles the client's book cover as per the client's instruction. This project is created with Gatsbyjs. I have created a local JSON file for website's assets and is being served into the project using GraphQL.",
             "githubURL": "https://github.com/eatcodesforlife/melking-site",
-            "url": "https://app.netlify.com/sites/melkingwebsitedraft/overview",
-            "techs": ["gatsby", "graphql", "nodejs", "css modules", "JSON"]
+            "url": "https://melkingwebsitedraft.netlify.app/",
+            "techs": ["gatsby", "graphql", "css modules", "JSON"]
         },
         {
             "id": 2,
